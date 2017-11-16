@@ -1,4 +1,4 @@
-application: stashboard-hrd
+application: status-page-186222
 version: 2
 runtime: python27
 api_version: 1
